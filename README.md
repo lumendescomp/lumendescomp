@@ -1,4 +1,4 @@
-- 👋 Oi, sou Luís Mendes. Tenho 21 anos.
+- 👋 Oi, sou Luís Mendes. Tenho 22 anos.
 - 👨‍🎓 Graduando de Licenciatura da Computação na UFBA.
 - 💻 Dev Fullstack.
 - ❤️ Apaixonado por tecnologia, programação, inovação e resolver problemas a partir desses meios.
